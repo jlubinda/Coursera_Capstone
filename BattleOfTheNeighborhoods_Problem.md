@@ -5,17 +5,13 @@
 </center>
 <center>
 
-## FARMING IN CANADA
+### FARMING IN CANADA
 
 </center>
-
+<hr>
 <center>By Joseph S. Lubinda</center>
+<hr>
 
-<center>
-    
-### In this notebook we compare Neighborhoods
-
-</center>
 
 ### INTRODUCTION
 
