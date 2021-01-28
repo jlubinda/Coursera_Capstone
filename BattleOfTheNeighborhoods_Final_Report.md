@@ -23,7 +23,7 @@
 <li>Has there been an increase in farming activities between 1996 and 2016? </li>
 <li>For one who may be interested in becoming a farmer in Canada, which areas should they expect to use for farming and why? </li>
 <li>Which product should he/she focus on based on economies of scale, supply and demand. </li>
-<ul>
+</ul>
 
 <p>We aim at bringing this data in such a way that one can easily make a decision with the backing of data.</p>
 
