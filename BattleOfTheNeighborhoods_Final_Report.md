@@ -1,6 +1,6 @@
 <center>
 
-<h1>FARMING IN CANADA</h1>   
+<h1>A STUDY OF FARMING IN CANADA USING DATA SCIENCE TECHNIQUES AND WEB SCRAPING</h1>   
     
 </center>
 <center>
